@@ -1,42 +1,54 @@
-<!-- Typing Animation -->
+<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&vCenter=true&width=600&lines=Hi%2C+I'm+Kumar+Kishan!;Frontend+Developer+%7C+SOC+Analyst+%7C+Freelancer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
+
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Dev Animation" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Kumar Kishan**, a passionate **Frontend Developer**, **SOC Analyst**, and **Freelancer** who loves creating interactive web experiences and securing systems.
+Hey there! I'm **Kumar Kishan**, a curious and creative tech enthusiast who thrives in both **Frontend Development** and **Cybersecurity (SOC Analyst)**.
 
+- 🎯 Frontend Developer | SOC Analyst | Freelancer
 - 💻 Languages: `C++`, `Python`, `JavaScript`, `HTML`, `CSS`, `SQL`
-- 🧠 Frameworks & Tools: `Django`, `Three.js`, `Node.js`, `React`, `Git`
-- 🔐 SOC Analyst Skills: Event correlation, threat hunting, malware forensics
-- 🌐 Exploring AI and automation in real-world apps
-- 🤝 Open to freelance projects and team collaborations
+- 🧰 Frameworks & Tools: `Django`, `Three.js`, `Git`, `React`, `Node.js`
+- 🔐 Cyber skills: Threat Hunting, Network Monitoring, Event Correlation, Malware Analysis
+- 🧠 Passionate about AI, automation, and creating user-friendly tools
 
 ---
 
 ## 🚀 Projects
 
-### 🏠 AI Interior Designer (AQI)
-> An AI-powered tool that recommends home interior designs based on Air Quality Index and environmental data.
-- Technologies: Python, AI/ML, Web UI
-- Smart + aesthetic = win-win 🧠🎨
+### 🧠 AI Voice Navigation System  
+> Python-powered voice assistant that helps control your laptop hands-free 🗣️💻  
+> Uses speech recognition and command mapping.
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="Voice Command Demo" />
 
 ---
 
-### 🌐 Personal Portfolio
-> Check out my work, skills, and experience:
-👉 [kumarkishan.lovable.app](https://kumarkishan.lovable.app)
+### 🏠 AI-Powered Interior Designer (AQI Based)  
+> Suggests interior designs based on air quality, temperature, and room type.  
+> Smart + Stylish = Perfect Combo 🎨🧠
 
 ---
 
-### 🎙️ AI Voice Navigation System
-> A voice-controlled assistant built in Python that can:
-- Open apps
-- Control system functions
-- Help automate daily tasks
+### 🌐 Personal Portfolio  
+> Check out my work, experience, and projects:  
+🔗 [kumarkishan.lovable.app](https://kumarkishan.lovable.app)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,python,django,cpp,git,linux,mysql" />
+</p>
 
 ---
 
@@ -52,23 +64,17 @@ I'm **Kumar Kishan**, a passionate **Frontend Developer**, **SOC Analyst**, and 
 
 ---
 
-## 🔗 Connect with Me
+## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kumar-kishan-b23540248/)
 - 🌐 [Portfolio](https://kumarkishan.lovable.app)
-- 📫 Email: *[you can add it here if you want]*
+- ✉️ *Add email here if you want*
 
 ---
 
-## 🧠 Fun Facts
-
-- 🎮 I enjoy building 3D experiences using `three.js`
-- 🛡️ I investigate cyber threats and love playing blue team 🛡️
-- 🧩 Always learning and trying cool new tech
-
----
-
-<!-- Optional: Snake animation (needs setup) -->
+<!-- Optional: Snake animation -->
 <!--
 ![snake gif](https://github.com/KumarKishan/KumarKishan/blob/output/github-contribution-grid-snake.svg)
 -->
+
+<p align="center">⚡ Always Building, Always Learning ⚡</p>
