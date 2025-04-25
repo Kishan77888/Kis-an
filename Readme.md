@@ -67,7 +67,7 @@ Hey there! I'm **Kumar Kishan**, a curious and creative tech enthusiast who thri
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kumar-kishan-b23540248/)
-- 🌐 [Portfolio](https://kumarkishan.lovable.app)
+- 🌐 [Portfolio](https://peppy-malasada-42a4d3.netlify.app/)
 - ✉️ *kumarkishan22595@gmail.com*
 
 ---
