@@ -40,7 +40,7 @@ Hey there! I'm **Kumar Kishan**, a curious and creative tech enthusiast who thri
 
 ### 🌐 Personal Portfolio  
 > Check out my work, experience, and projects:  
-🔗 [kumarkishan.lovable.app](https://kumarkishan.lovable.app)
+🔗 [https://peppy-malasada-42a4d3.netlify.app/](https://peppy-malasada-42a4d3.netlify.app/)
 
 ---
 
